@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQEjjXWEndHVvg/profile-displaybackgroundimage-shrink_200_800/0/1691120516559?e=2147483647&v=beta&t=D37PjI3_o2PzDvd8XdpXXl58P-nctV7ByrGgg7YJ3Jw)
+<!--![MasterHead](https://media.licdn.com/dms/image/D4D16AQEjjXWEndHVvg/profile-displaybackgroundimage-shrink_200_800/0/1691120516559?e=2147483647&v=beta&t=D37PjI3_o2PzDvd8XdpXXl58P-nctV7ByrGgg7YJ3Jw)-->
 
 <h1 align="center">Hi 👋, I'm Hriteeka Singh</h1>
 <h3 align="center">A passionate frontend developer from Kolkata, India with a knack of Competitive Programming</h3>
